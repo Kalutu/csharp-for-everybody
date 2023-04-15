@@ -4,7 +4,6 @@ This is a repository of C# programming projects for beginners. These projects ar
 ## Projects
 The following projects are included in this repository:
 
-- Hello World - a simple program that prints "Hello, World!" to the console
 - Calculator - a program that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers
 - Guess the Number - a game where the user tries to guess a randomly generated number
 - Rock, Paper, Scissors - a game where the user plays against the computer in a game of Rock, Paper, Scissors
