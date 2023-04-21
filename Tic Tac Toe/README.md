@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic Tac Toe Game in C#
 This is a console application that allows two players to play the classic game of Tic Tac Toe.
 
 ## How to Play
