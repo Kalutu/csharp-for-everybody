@@ -9,11 +9,11 @@ This is a simple address book application written in C#. It allows users to add,
 ## Usage
 When you run the application, you'll see a menu with several options:
 
-1.View Contacts - displays a list of all contacts in the address book
-1.Add Contact - adds a new contact to the address book
-1.Edit Contact - edits an existing contact in the address book
-1.Delete Contact - deletes a contact from the address book
-1.Exit - exits the application
+1. View Contacts - displays a list of all contacts in the address book
+1. Add Contact - adds a new contact to the address book
+1. Edit Contact - edits an existing contact in the address book
+1. Delete Contact - deletes a contact from the address book
+1. Exit - exits the application
 
 To select an option, enter the corresponding number and press Enter.
 
