@@ -30,6 +30,8 @@ This is a simple console application in C# that allows users to create a to-do l
 
 3. Follow the on-screen instructions to perform the desired action.
 
-## License
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-This project is licensed under the [MIT License](LICENSE).
+## Credits
+This project is created by Kalutu Daniel.
