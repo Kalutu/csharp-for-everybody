@@ -26,5 +26,11 @@ This is a simple console application in C# that allows users to convert temperat
    - **3. Exit**: Terminates the application.
 
 3. Follow the on-screen instructions to perform the desired conversion.
+4. 
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+## Credits
+This project is created by Kalutu Daniel.
 
 
