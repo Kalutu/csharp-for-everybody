@@ -27,17 +27,19 @@ dotnet build
 dotnet run
 ```
 ## Usage
-1.The application will start and display a menu with options.
+1. The application will start and display a menu with options.
 
-2.Choose the desired option by entering the corresponding number:
-  - Add a contact: Enter the name, email, and phone number of the contact you want to add.
-  - Search for a contact: Enter the name of the contact you want to search for.
-  - Update a contact: Enter the name of the contact you want to update, and provide the new email and/or phone number.
-  -  Follow the instructions and prompts on the screen to perform the desired action.
+2. Choose the desired option by entering the corresponding number:
 
-3. Repeat the steps to add more contacts, search for contacts, or update contact details.
+   - **Add a contact**: Enter the name, email, and phone number of the contact you want to add.
+   - **Search for a contact**: Enter the name of the contact you want to search for.
+   - **Update a contact**: Enter the name of the contact you want to update, and provide the new email and/or phone number.
 
-4. To exit the application, choose the "Exit" option from the menu.
+3. Follow the instructions and prompts on the screen to perform the desired action.
+
+4. Repeat the steps to add more contacts, search for contacts, or update contact details.
+
+5. To exit the application, choose the "Exit" option from the menu.
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
