@@ -18,4 +18,31 @@ Expense Tracker is a C# application that helps users track their expenses, categ
    ```
    git clone https://github.com/your-username/expense-tracker.git
    ```
+2. Navigate to the project directory:
+   ```
+   cd task-manager
+   ```
+3. Build the application:
+   ```
+   dotnet build
+   ```
+4. Run the application:
+   ```
+   dotnet run
+   ```  
    
+## Usage
+1. Upon running the application, a menu will be displayed with the following options:
+   - **Enter Expense**: Enter a new expense by specifying the amount, description, and category.
+   - **Categorize Expenses**: Categorize expenses by assigning a category to a specific expense.
+   - **Monthly Budgeting**: Set monthly budgets for expense categories and track spending limits.
+   - **View Reports**: Generate reports on expenses, including visual charts and data filtering options.
+   - **Exit**: Exit the application.
+
+2. Choose an option from the menu by entering the corresponding number.
+
+3. Follow the instructions provided by the application to perform the desired expense tracking operations.
+
+4. Press any key to continue after each operation.
+
+5. To exit the application, select the "Exit" option from the menu.
