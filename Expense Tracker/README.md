@@ -46,3 +46,9 @@ Expense Tracker is a C# application that helps users track their expenses, categ
 4. Press any key to continue after each operation.
 
 5. To exit the application, select the "Exit" option from the menu.
+
+## Contributing
+Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
+
+## Credits 
+This project was build by Kalutu Daniel.
