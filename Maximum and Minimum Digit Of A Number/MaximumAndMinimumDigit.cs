@@ -25,7 +25,7 @@ namespace Maximum_and_Minimum_Digit
             while (number > 0)
             {
                 int digit = number % 10;
-                if (digit < max)
+                if (digit < min)
                 {
                     min = digit;
                 }
