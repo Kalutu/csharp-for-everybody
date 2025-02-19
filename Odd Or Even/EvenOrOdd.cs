@@ -1,21 +1,18 @@
 using System;
-
 class Program
 {
     static void Main(string[] args)
     {
         Console.WriteLine("Odd Or Even");
-
-        Console.WriteLine("\nPlease enter a number:");
-        int number = Convert.ToInt32(Console.ReadLine());
-
-        if (number % 2 == 0)
-        {
-            Console.WriteLine($"{number} is an even number.");
-        }
-        else
-        {
-            Console.WriteLine($"{number} is an odd number.");
+        Console.WriteLine("Please enter a number:");
+        
+        try{
+            int number = Convert.ToInt32(Console.ReadLine());
+            string result =  number % 2 == 0 ? "even" : "odd";
+            Console.WriteLine($"{number} is {result} number.");
+            
+        }catch (FormatException){
+            Console.WriteLine($"Not a number.");
         }
     }
 }
